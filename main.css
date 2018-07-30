@@ -1,0 +1,45 @@
+.centraltext{
+    text-align: center;
+}
+.type1{
+   border:1px solid black;
+    height:250px;
+}
+.type2{
+    border:1px solid black;
+    height:250px;
+}
+.type1 p{
+    text-align:center;
+}
+.type2{
+    text-align:center;
+}
+
+h3{
+    text-align:center;
+    padding-top:2em;
+}
+
+.type2 img{
+    float:right;
+    margin-top:5px;
+    width:350px;
+    height:auto;
+    display:inline-block;
+}
+.type1 img{
+    float:left;
+    margin-top:5px;
+    width:350px;
+    height:auto;
+}
+
+#banner{
+   display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    height:250px;
+    
+}
